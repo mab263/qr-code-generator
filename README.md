@@ -31,3 +31,4 @@ docker build -t qr-code-generator-app .
 
 - DockerHub: https://hub.docker.com/r/mab263/qr-code-generator-app
 - CI: GitHub Actions builds and pushes the image on every push to `main`.
+
