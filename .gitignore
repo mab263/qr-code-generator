@@ -3,3 +3,4 @@ __pycache__/
 qr_codes/
 logs/
 .env
+.DS_Store
